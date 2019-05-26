@@ -1,0 +1,2640 @@
+{
+	"airports": [
+		{
+			"label": "Aalborg, Denmark (AAL)",
+			"value": "AAL"
+		},
+		{
+			"label": "Aalesund, Norway (AES)",
+			"value": "AES"
+		},
+		{
+			"label": "Aarhus, Denmark - Bus service (ZID)",
+			"value": "ZID"
+		},
+		{
+			"label": "Aarhus, Denmark - Tirstrup (AAR)",
+			"value": "AAR"
+		},
+		{
+			"label": "Aasiaat, Greenland (JEG)",
+			"value": "JEG"
+		},
+		{
+			"label": "Abadan, Iran (ABD)",
+			"value": "ABD"
+		},
+		{
+			"label": "Abakan, Russia (ABA)",
+			"value": "ABA"
+		},
+		{
+			"label": "Abbotsford, BC (YXX)",
+			"value": "YXX"
+		},
+		{
+			"label": "Aberdeen, SD (ABR)",
+			"value": "ABR"
+		},
+		{
+			"label": "Aberdeen, United Kingdom (ABZ)",
+			"value": "ABZ"
+		},
+		{
+			"label": "Abha, Saudi Arabia (AHB)",
+			"value": "AHB"
+		},
+		{
+			"label": "Abidjan, Cote d'Ivoire (ABJ)",
+			"value": "ABJ"
+		},
+		{
+			"label": "Abilene, TX (ABI)",
+			"value": "ABI"
+		},
+		{
+			"label": "Abu Dhabi, United Arab Emirates (AUH)",
+			"value": "AUH"
+		},
+		{
+			"label": "Abu Simbel, Egypt (ABS)",
+			"value": "ABS"
+		},
+		{
+			"label": "Abuja, Nigeria (ABV)",
+			"value": "ABV"
+		},
+		{
+			"label": "Acapulco, Mexico (ACA)",
+			"value": "ACA"
+		},
+		{
+			"label": "Acarigua, Venezuela (AGV)",
+			"value": "AGV"
+		},
+		{
+			"label": "Accra, Ghana (ACC)",
+			"value": "ACC"
+		},
+		{
+			"label": "Adak Island, AK (ADK)",
+			"value": "ADK"
+		},
+		{
+			"label": "Adana, Turkey (ADA)",
+			"value": "ADA"
+		},
+		{
+			"label": "Addis Ababa, Ethopia (ADD)",
+			"value": "ADD"
+		},
+		{
+			"label": "Adelaide, Australia (ADL)",
+			"value": "ADL"
+		},
+		{
+			"label": "Aden, Yemen (ADE)",
+			"value": "ADE"
+		},
+		{
+			"label": "Adler/Sochi, Russia (AER)",
+			"value": "AER"
+		},
+		{
+			"label": "Adrar, Algeria (AZR)",
+			"value": "AZR"
+		},
+		{
+			"label": "Afutara, Soloman Islands (AFT)",
+			"value": "AFT"
+		},
+		{
+			"label": "Agadir, Morocco (AGA)",
+			"value": "AGA"
+		},
+		{
+			"label": "Agartala, India (IXA)",
+			"value": "IXA"
+		},
+		{
+			"label": "Agaun, Papua New Guinea (AUP)",
+			"value": "AUP"
+		},
+		{
+			"label": "Agen, France (AGF)",
+			"value": "AGF"
+		},
+		{
+			"label": "Agra, India (AGR)",
+			"value": "AGR"
+		},
+		{
+			"label": "Agri, Turkey (AJI)",
+			"value": "AJI"
+		},
+		{
+			"label": "Aguadilla, Puerto Rico (BQN)",
+			"value": "BQN"
+		},
+		{
+			"label": "Aguascalientes, Mexico (AGU)",
+			"value": "AGU"
+		},
+		{
+			"label": "Aguni, Japan (AGJ)",
+			"value": "AGJ"
+		},
+		{
+			"label": "Ahmedabad, India (AMD)",
+			"value": "AMD"
+		},
+		{
+			"label": "Ahwaz, Iran (AWZ)",
+			"value": "AWZ"
+		},
+		{
+			"label": "Ailuk Island, Marshall Islands (AIM)",
+			"value": "AIM"
+		},
+		{
+			"label": "Aioun El Atrouss, Mauritania (AEO)",
+			"value": "AEO"
+		},
+		{
+			"label": "Airok, Marshall Islands (AIC)",
+			"value": "AIC"
+		},
+		{
+			"label": "Aitutaki, Cook Islands (AIT)",
+			"value": "AIT"
+		},
+		{
+			"label": "Aizawl, India (AJL)",
+			"value": "AJL"
+		},
+		{
+			"label": "Ajaccio, France (AJA)",
+			"value": "AJA"
+		},
+		{
+			"label": "Akiachak, AK (KKI)",
+			"value": "KKI"
+		},
+		{
+			"label": "Akiak, AK (AKI)",
+			"value": "AKI"
+		},
+		{
+			"label": "Akita, Japan (AXT)",
+			"value": "AXT"
+		},
+		{
+			"label": "Akron/Canton, OH (CAK)",
+			"value": "CAK"
+		},
+		{
+			"label": "Aksu, China (AKU)",
+			"value": "AKU"
+		},
+		{
+			"label": "Aktyubinsk, Kazakhstan (AKX)",
+			"value": "AKX"
+		},
+		{
+			"label": "Akulivik, QC (AKV)",
+			"value": "AKV"
+		},
+		{
+			"label": "Akureyri, Iceland (AEY)",
+			"value": "AEY"
+		},
+		{
+			"label": "Akuton, AK (KQA)",
+			"value": "KQA"
+		},
+		{
+			"label": "Al Ain, United Arab Emirates (AAN)",
+			"value": "AAN"
+		},
+		{
+			"label": "Al Arish, Egypt (AAC)",
+			"value": "AAC"
+		},
+		{
+			"label": "Al Ghaydah, Yemen (AAY)",
+			"value": "AAY"
+		},
+		{
+			"label": "Al Hoceima, Morocco (AHU)",
+			"value": "AHU"
+		},
+		{
+			"label": "Alakanuk, AK (AUK)",
+			"value": "AUK"
+		},
+		{
+			"label": "Alamogordo, NM (ALM)",
+			"value": "ALM"
+		},
+		{
+			"label": "Alamosa, CO (ALS)",
+			"value": "ALS"
+		},
+		{
+			"label": "Al-Baha, Saudi Arabia (ABT)",
+			"value": "ABT"
+		},
+		{
+			"label": "Albany, NY (ALB)",
+			"value": "ALB"
+		},
+		{
+			"label": "Butuan, Philippines (BXU)",
+			"value": "BXU"
+		},
+		{
+			"label": "Bydgoszcz, Poland (BZG)",
+			"value": "BZG"
+		},
+		{
+			"label": "Gdansk, Poland (GDN)",
+			"value": "GDN"
+		},
+		{
+			"label": "Gebe, Indonesia (GEB)",
+			"value": "GEB"
+		},
+		{
+			"label": "Gelendzik, Russia (GDZ)",
+			"value": "GDZ"
+		},
+		{
+			"label": "Geneina, Sudan (EGN)",
+			"value": "EGN"
+		},
+		{
+			"label": "General Santos, Philippines (GES)",
+			"value": "GES"
+		},
+		{
+			"label": "Geneva, Switzerland (GVA)",
+			"value": "GVA"
+		},
+		{
+			"label": "Genoa, Italy (GOA)",
+			"value": "GOA"
+		},
+		{
+			"label": "George, South Africa (GRJ)",
+			"value": "GRJ"
+		},
+		{
+			"label": "Georgetown, Guyana (GEO)",
+			"value": "GEO"
+		},
+		{
+			"label": "Georgetown, ON - Rail service (XHM)",
+			"value": "XHM"
+		},
+		{
+			"label": "Geraldton, Australia, (GET)",
+			"value": "GET"
+		},
+		{
+			"label": "Gerona, Spain (GRO)",
+			"value": "GRO"
+		},
+		{
+			"label": "Gethsemani, QC (ZGS)",
+			"value": "ZGS"
+		},
+		{
+			"label": "Ghadames, Libya (LTD)",
+			"value": "LTD"
+		},
+		{
+			"label": "Ghardala, Algeria (GHA)",
+			"value": "GHA"
+		},
+		{
+			"label": "Ghat, Libya (GHT)",
+			"value": "GHT"
+		},
+		{
+			"label": "Gibraltar, Gibraltar (GIB)",
+			"value": "GIB"
+		},
+		{
+			"label": "Gilgit, Pakistan (GIL)",
+			"value": "GIL"
+		},
+		{
+			"label": "Gillam, MB (YGX)",
+			"value": "YGX"
+		},
+		{
+			"label": "Gillette, WY (GCC)",
+			"value": "GCC"
+		},
+		{
+			"label": "Gillies Bay, BC (YGB)",
+			"value": "YGB"
+		},
+		{
+			"label": "Gisborne, New Zealand (GIS)",
+			"value": "GIS"
+		},
+		{
+			"label": "Gizan, Saudi Arabia (GIZ)",
+			"value": "GIZ"
+		},
+		{
+			"label": "Gizo, Solomon Islands (GZO)",
+			"value": "GZO"
+		},
+		{
+			"label": "Gjoa Haven, NU (YHK)",
+			"value": "YHK"
+		},
+		{
+			"label": "Gladewater/Kilgore, TX (GGG)",
+			"value": "GGG"
+		},
+		{
+			"label": "Gladstone, Australia (GLT)",
+			"value": "GLT"
+		},
+		{
+			"label": "Glasgow, MT (GGW)",
+			"value": "GGW"
+		},
+		{
+			"label": "Glasgow, United Kingdom - Glasgow International (GLA)",
+			"value": "GLA"
+		},
+		{
+			"label": "Glasgow, United Kingdom - Prestwick (PIK)",
+			"value": "PIK"
+		},
+		{
+			"label": "Glen Innes, Australia (GLI)",
+			"value": "GLI"
+		},
+		{
+			"label": "Glencoe, ON - Rail service (XZC)",
+			"value": "XZC"
+		},
+		{
+			"label": "Glendive, MT (GDV)",
+			"value": "GDV"
+		},
+		{
+			"label": "Goa, India (GOI)",
+			"value": "GOI"
+		},
+		{
+			"label": "Goba, Ethiopia (GOB)",
+			"value": "GOB"
+		},
+		{
+			"label": "Gobernador Gregores, Argentina (GGS)",
+			"value": "GGS"
+		},
+		{
+			"label": "Gode/Iddidole, Ethopia (GDE)",
+			"value": "GDE"
+		},
+		{
+			"label": "Jacksonville, NC (OAJ)",
+			"value": "OAJ"
+		},
+		{
+			"label": "Jacobabad, Pakistan (JAG)",
+			"value": "JAG"
+		},
+		{
+			"label": "Jacquinot Bay, Papua New Guinea (JAQ)",
+			"value": "JAQ"
+		},
+		{
+			"label": "Jaipur, India (JAI)",
+			"value": "JAI"
+		},
+		{
+			"label": "Jakarta, Indonesia (CGK)",
+			"value": "CGK"
+		},
+		{
+			"label": "Jalapa, Mexico (JAL)",
+			"value": "JAL"
+		},
+		{
+			"label": "Jaluit Island, Marshall Islands (UIT)",
+			"value": "UIT"
+		},
+		{
+			"label": "Jambi, Indonesia (DJB)",
+			"value": "DJB"
+		},
+		{
+			"label": "Jamestown, ND (JMS)",
+			"value": "JMS"
+		},
+		{
+			"label": "Jamestown, NY (JHW)",
+			"value": "JHW"
+		},
+		{
+			"label": "Jamnagar, India (JGA)",
+			"value": "JGA"
+		},
+		{
+			"label": "Janakpur, Nepal (JKR)",
+			"value": "JKR"
+		},
+		{
+			"label": "Janesville, WI (JVL)",
+			"value": "JVL"
+		},
+		{
+			"label": "Jaque, Panama (JQE)",
+			"value": "JQE"
+		},
+		{
+			"label": "Jasper, AB - Rail service (XDH)",
+			"value": "XDH"
+		},
+		{
+			"label": "Jayapura, Indonesia (DJJ)",
+			"value": "DJJ"
+		},
+		{
+			"label": "Jeddah, Saudi Arabia (JED)",
+			"value": "JED"
+		},
+		{
+			"label": "Jeh, Marshall Islands (JEJ)",
+			"value": "JEJ"
+		},
+		{
+			"label": "Jeju, South Korea - Jeju Airport, metro area (CJU)",
+			"value": "CJU"
+		},
+		{
+			"label": "Jerez De La Frontere, Spain (XRY)",
+			"value": "XRY"
+		},
+		{
+			"label": "Jersey, United Kingdom (JER)",
+			"value": "JER"
+		},
+		{
+			"label": "Jessore, Bangladesh (JSR)",
+			"value": "JSR"
+		},
+		{
+			"label": "Jiamusi, China (JMU)",
+			"value": "JMU"
+		},
+		{
+			"label": "Jiayuguan, China (JGN)",
+			"value": "JGN"
+		},
+		{
+			"label": "Jijel, Algeria (GJL)",
+			"value": "GJL"
+		},
+		{
+			"label": "Jijiga, Ethiopia (JIJ)",
+			"value": "JIJ"
+		},
+		{
+			"label": "Jimma, Ethiopia (JIM)",
+			"value": "JIM"
+		},
+		{
+			"label": "Jinan, China (TNA)",
+			"value": "TNA"
+		},
+		{
+			"label": "Jingdezhen, China (JDZ)",
+			"value": "JDZ"
+		},
+		{
+			"label": "Jinghong, China (JHG)",
+			"value": "JHG"
+		},
+		{
+			"label": "Jinja, Uganda (JIN)",
+			"value": "JIN"
+		},
+		{
+			"label": "Jinjiang, China (JJN)",
+			"value": "JJN"
+		},
+		{
+			"label": "Jinju, South Korea - Sancheon (HIN)",
+			"value": "HIN"
+		},
+		{
+			"label": "Jinka, Ethiopia (BCO)",
+			"value": "BCO"
+		},
+		{
+			"label": "Jinzhou, China (JNZ)",
+			"value": "JNZ"
+		},
+		{
+			"label": "Ji-Parana, Brazil (JPR)",
+			"value": "JPR"
+		},
+		{
+			"label": "Jiwani, Pakistan (JIW)",
+			"value": "JIW"
+		},
+		{
+			"label": "Joao Pessoa, Brazil (JPA)",
+			"value": "JPA"
+		},
+		{
+			"label": "Jodhpur, India (JDH)",
+			"value": "JDH"
+		},
+		{
+			"label": "Joensuu, Finland (JOE)",
+			"value": "JOE"
+		},
+		{
+			"label": "Johannesburg, South Africa (JNB)",
+			"value": "JNB"
+		},
+		{
+			"label": "Johnson City, NY (BGM)",
+			"value": "BGM"
+		},
+		{
+			"label": "Johnson City, TN (TRI)",
+			"value": "TRI"
+		},
+		{
+			"label": "Johnston Island, US Minor Outlying Islands (JON)",
+			"value": "JON"
+		},
+		{
+			"label": "Johnstown, PA (JST)",
+			"value": "JST"
+		},
+		{
+			"label": "Johor, Malaysia (JHB)",
+			"value": "JHB"
+		},
+		{
+			"label": "Joinville, Brazil (JOI)",
+			"value": "JOI"
+		},
+		{
+			"label": "Joliette, QC - Rail service (XJL)",
+			"value": "XJL"
+		},
+		{
+			"label": "Jommu, India (IXJ)",
+			"value": "IXJ"
+		},
+		{
+			"label": "Jomsom, Nepal (JMO)",
+			"value": "JMO"
+		},
+		{
+			"label": "Jonesboro, AR (JBR)",
+			"value": "JBR"
+		},
+		{
+			"label": "Jonkoping, Sweden (JKG)",
+			"value": "JKG"
+		},
+		{
+			"label": "Jonquiere, QC - Rail service (XJQ)",
+			"value": "XJQ"
+		},
+		{
+			"label": "Joplin, MO (JLN)",
+			"value": "JLN"
+		},
+		{
+			"label": "Jorhat, India (JRH)",
+			"value": "JRH"
+		},
+		{
+			"label": "Jose De San Martin, Argentina (JSM)",
+			"value": "JSM"
+		},
+		{
+			"label": "Jouf, Saudi Arabia (AJF)",
+			"value": "AJF"
+		},
+		{
+			"label": "Juazeiro Do Norte, Brazil (JDO)",
+			"value": "JDO"
+		},
+		{
+			"label": "Juist, Germany (JUI)",
+			"value": "JUI"
+		},
+		{
+			"label": "Juiz De Fora, Brazil (JDF)",
+			"value": "JDF"
+		},
+		{
+			"label": "Jujuy, Argentina (JUJ)",
+			"value": "JUJ"
+		},
+		{
+			"label": "Julia Creek, Australia (JCK)",
+			"value": "JCK"
+		},
+		{
+			"label": "Juliaca, Peru (JUL)",
+			"value": "JUL"
+		},
+		{
+			"label": "Juneau, AK (JNU)",
+			"value": "JNU"
+		},
+		{
+			"label": "Juzha, China (JUZ)",
+			"value": "JUZ"
+		},
+		{
+			"label": "Jyvaskyla, Finland (JYV)",
+			"value": "JYV"
+		},
+		{
+			"label": "Kaadedhdhoo, Maldives (KDM)",
+			"value": "KDM"
+		},
+		{
+			"label": "Kaben, Marshall Islands (KBT)",
+			"value": "KBT"
+		},
+		{
+			"label": "Kabri Dar, Ethiopia (ABK)",
+			"value": "ABK"
+		},
+		{
+			"label": "Kabul, Afghanistan (KBL)",
+			"value": "KBL"
+		},
+		{
+			"label": "Kabwun, Papua New Guinea (KBM)",
+			"value": "KBM"
+		},
+		{
+			"label": "Kadanwari, Pakistan (KCF)",
+			"value": "KCF"
+		},
+		{
+			"label": "Kadhonoo, Maldives (KDO)",
+			"value": "KDO"
+		},
+		{
+			"label": "Kahramanmaras, Turkey (KCM)",
+			"value": "KCM"
+		},
+		{
+			"label": "Kahului, HI - Island of Maui, (OGG)",
+			"value": "OGG"
+		},
+		{
+			"label": "Kaintiba, Papua New Guinea (KZF)",
+			"value": "KZF"
+		},
+		{
+			"label": "Kaitaia, New Zealand (KAT)",
+			"value": "KAT"
+		},
+		{
+			"label": "Kajaani, Finland (KAJ)",
+			"value": "KAJ"
+		},
+		{
+			"label": "Kake, AK (KAE)",
+			"value": "KAE"
+		},
+		{
+			"label": "Kakhonak, AK (KNK)",
+			"value": "KNK"
+		},
+		{
+			"label": "Kalamazoo, MI (AZO)",
+			"value": "AZO"
+		},
+		{
+			"label": "Kalaupapa, HI - Island of Molokai, (LUP)",
+			"value": "LUP"
+		},
+		{
+			"label": "Kalbarri, Australia (KAX)",
+			"value": "KAX"
+		},
+		{
+			"label": "Kaliningrad, Russia (KGD)",
+			"value": "KGD"
+		},
+		{
+			"label": "Kalskag, AK (KLG)",
+			"value": "KLG"
+		},
+		{
+			"label": "Kaltag, AK (KAL)",
+			"value": "KAL"
+		},
+		{
+			"label": "Kambuaya, Indonesia (KBX)",
+			"value": "KBX"
+		},
+		{
+			"label": "Kameshli, Syrian Arab Republic (KAC)",
+			"value": "KAC"
+		},
+		{
+			"label": "Kamloops, BC (YKA)",
+			"value": "YKA"
+		},
+		{
+			"label": "Kamuela, HI - Island of Hawaii, (MUE)",
+			"value": "MUE"
+		},
+		{
+			"label": "Kamur, Indonesia (KCD)",
+			"value": "KCD"
+		},
+		{
+			"label": "Kamusi, Papua New Guinea (KUY)",
+			"value": "KUY"
+		},
+		{
+			"label": "Kangiqsualujjuaq, QC (XGR)",
+			"value": "XGR"
+		},
+		{
+			"label": "Kangiqsujuaq, QC (YWB)",
+			"value": "YWB"
+		},
+		{
+			"label": "Kangirsuk, QC (YKG)",
+			"value": "YKG"
+		},
+		{
+			"label": "Kano, Nigeria (KAN)",
+			"value": "KAN"
+		},
+		{
+			"label": "Kansas City, MO (MCI)",
+			"value": "MCI"
+		},
+		{
+			"label": "Kapalua, HI - Island of Maui, (JHM)",
+			"value": "JHM"
+		},
+		{
+			"label": "Kapuskasing, ON (YYU)",
+			"value": "YYU"
+		},
+		{
+			"label": "Karachi, Pakistan - Quaid-E-Azam International (KHI)",
+			"value": "KHI"
+		},
+		{
+			"label": "Kardia, Estonia (KDL)",
+			"value": "KDL"
+		},
+		{
+			"label": "Kariba, Zimbabwe (KAB)",
+			"value": "KAB"
+		},
+		{
+			"label": "Karlsruhe/Badern Baden, Germany (FKB)",
+			"value": "FKB"
+		},
+		{
+			"label": "Karpathos, Greece (AOK)",
+			"value": "AOK"
+		},
+		{
+			"label": "Karubaga, Indonesia (KBF)",
+			"value": "KBF"
+		},
+		{
+			"label": "Kasaan, AK (KXA)",
+			"value": "KXA"
+		},
+		{
+			"label": "Kasaba Bay, Zambia (ZKB)",
+			"value": "ZKB"
+		},
+		{
+			"label": "Kasabonika, ON (XKS)",
+			"value": "XKS"
+		},
+		{
+			"label": "Kasama, Zambia (KAA)",
+			"value": "KAA"
+		},
+		{
+			"label": "Kasane, Botswana (BBK)",
+			"value": "BBK"
+		},
+		{
+			"label": "Kaschechewan, ON (ZKE)",
+			"value": "ZKE"
+		},
+		{
+			"label": "Kasigluk, AK (KUK)",
+			"value": "KUK"
+		},
+		{
+			"label": "Katherine, NT, Australia (KTR)",
+			"value": "KTR"
+		},
+		{
+			"label": "Kathmandu, Nepal (KTM)",
+			"value": "KTM"
+		},
+		{
+			"label": "Katowice, Poland (KTW)",
+			"value": "KTW"
+		},
+		{
+			"label": "Kauai Island/Lihue, HI (LIH)",
+			"value": "LIH"
+		},
+		{
+			"label": "Kaunas, Lithuania (KUN)",
+			"value": "KUN"
+		},
+		{
+			"label": "Kavala, Greece (KVA)",
+			"value": "KVA"
+		},
+		{
+			"label": "Kavieng, Papua New Guinea (KVG)",
+			"value": "KVG"
+		},
+		{
+			"label": "Kawthaung, Myanmar (KAW)",
+			"value": "KAW"
+		},
+		{
+			"label": "Kayseri, Turkey (ASR)",
+			"value": "ASR"
+		},
+		{
+			"label": "Kazan,, Russia (KZN)",
+			"value": "KZN"
+		},
+		{
+			"label": "Kearney, NE (EAR)",
+			"value": "EAR"
+		},
+		{
+			"label": "Keene, NH (EEN)",
+			"value": "EEN"
+		},
+		{
+			"label": "Keewaywin, ON (KEW)",
+			"value": "KEW"
+		},
+		{
+			"label": "Kefallinia, Greece (EFL)",
+			"value": "EFL"
+		},
+		{
+			"label": "Kegaska, QC (ZKG)",
+			"value": "ZKG"
+		},
+		{
+			"label": "Kelowna, BC (YLW)",
+			"value": "YLW"
+		},
+		{
+			"label": "Kenai, AK (ENA)",
+			"value": "ENA"
+		},
+		{
+			"label": "Kendari, Indonesia (KDI)",
+			"value": "KDI"
+		},
+		{
+			"label": "Kenora, ON (YQK)",
+			"value": "YQK"
+		},
+		{
+			"label": "Kerkyra, Greece (CFU)",
+			"value": "CFU"
+		},
+		{
+			"label": "Ketchikan, AK (KTN)",
+			"value": "KTN"
+		},
+		{
+			"label": "Key West, FL (EYW)",
+			"value": "EYW"
+		},
+		{
+			"label": "Keystone, CO - Van service (QKS)",
+			"value": "QKS"
+		},
+		{
+			"label": "Khajuraho, India (HJR)",
+			"value": "HJR"
+		},
+		{
+			"label": "Kharga, Egypt (UVL)",
+			"value": "UVL"
+		},
+		{
+			"label": "Kharkov, Ukraine (HRK)",
+			"value": "HRK"
+		},
+		{
+			"label": "Khudzhand, Tajikistan (LBD)",
+			"value": "LBD"
+		},
+		{
+			"label": "Khuzdar, Pakistan (KDD)",
+			"value": "KDD"
+		},
+		{
+			"label": "Kiana, AK (IAN)",
+			"value": "IAN"
+		},
+		{
+			"label": "Kiev, Ukraine - Borispol (KBP)",
+			"value": "KBP"
+		},
+		{
+			"label": "Kiev, Ukraine - Zhulhany (IEV)",
+			"value": "IEV"
+		},
+		{
+			"label": "Kigali, Rwanda (KGL)",
+			"value": "KGL"
+		},
+		{
+			"label": "Kigoma, Tanzania (TKQ)",
+			"value": "TKQ"
+		},
+		{
+			"label": "Kilgore/Gladewater, TX (GGG)",
+			"value": "GGG"
+		},
+		{
+			"label": "Kilimanjaro, Tanzania (JRO)",
+			"value": "JRO"
+		},
+		{
+			"label": "Killeen, TX (ILE)",
+			"value": "ILE"
+		},
+		{
+			"label": "Kimmirut/Lake Harbour NU (YLC)",
+			"value": "YLC"
+		},
+		{
+			"label": "Kimmirut/Lake Harbour, Canada (YLC)",
+			"value": "YLC"
+		},
+		{
+			"label": "King Cove, AK (KVC)",
+			"value": "KVC"
+		},
+		{
+			"label": "King Salmon, AK (AKN)",
+			"value": "AKN"
+		},
+		{
+			"label": "Kingfisher Lake, ON (KIF)",
+			"value": "KIF"
+		},
+		{
+			"label": "Kingman, AZ (IGM)",
+			"value": "IGM"
+		},
+		{
+			"label": "Kingsport, TN (TRI)",
+			"value": "TRI"
+		},
+		{
+			"label": "Kingston, Jamaica - Norman Manley (KIN)",
+			"value": "KIN"
+		},
+		{
+			"label": "Kingston, Jamaica - Tinson (KTP)",
+			"value": "KTP"
+		},
+		{
+			"label": "Kingston, ON - Norman Rogers Airport (YGK)",
+			"value": "YGK"
+		},
+		{
+			"label": "Kingston, ON - Rail service (XEG)",
+			"value": "XEG"
+		},
+		{
+			"label": "Kinshasa, Congo (FIH)",
+			"value": "FIH"
+		},
+		{
+			"label": "Kipnuk, AK (KPN)",
+			"value": "KPN"
+		},
+		{
+			"label": "Kirakira, Solomon Islands (IRA)",
+			"value": "IRA"
+		},
+		{
+			"label": "Kirksville, MO (IRK)",
+			"value": "IRK"
+		},
+		{
+			"label": "Kitadaito, Japan (KTD)",
+			"value": "KTD"
+		},
+		{
+			"label": "Kitchener, ON (YKF)",
+			"value": "YKF"
+		},
+		{
+			"label": "Kittila, Finland (KTT)",
+			"value": "KTT"
+		},
+		{
+			"label": "Kiunga, Papua New Guinea (UNG)",
+			"value": "UNG"
+		},
+		{
+			"label": "Kivalina, AK (KVL)",
+			"value": "KVL"
+		},
+		{
+			"label": "Kiwayu, Kenya (KWY)",
+			"value": "KWY"
+		},
+		{
+			"label": "Klamath Falls, OR (LMT)",
+			"value": "LMT"
+		},
+		{
+			"label": "Klawock, AK (KLW)",
+			"value": "KLW"
+		},
+		{
+			"label": "Klemtu, BC (YKT)",
+			"value": "YKT"
+		},
+		{
+			"label": "Knock, Ireland (NOC)",
+			"value": "NOC"
+		},
+		{
+			"label": "Knoxville, TN (TYS)",
+			"value": "TYS"
+		},
+		{
+			"label": "Kobuk, AK (OBU)",
+			"value": "OBU"
+		},
+		{
+			"label": "Kochi, Japan (KCZ)",
+			"value": "KCZ"
+		},
+		{
+			"label": "Kodiak, AK (ADQ)",
+			"value": "ADQ"
+		},
+		{
+			"label": "Koh Samui, Thailand (USM)",
+			"value": "USM"
+		},
+		{
+			"label": "Kolkata, India (CCU)",
+			"value": "CCU"
+		},
+		{
+			"label": "Kolobrzeg, Poland (QJY)",
+			"value": "QJY"
+		},
+		{
+			"label": "Komsomolsk Na Amure, Russia (KXK)",
+			"value": "KXK"
+		},
+		{
+			"label": "Kona, HI - Island of Hawaii (KOA)",
+			"value": "KOA"
+		},
+		{
+			"label": "Kongiganak, AK (KKH)",
+			"value": "KKH"
+		},
+		{
+			"label": "Konya, Turkey (KYA)",
+			"value": "KYA"
+		},
+		{
+			"label": "Koror, Palau (ROR)",
+			"value": "ROR"
+		},
+		{
+			"label": "Koszalin, Poland (OSZ)",
+			"value": "OSZ"
+		},
+		{
+			"label": "Kota Bharu, Malaysia (KBR)",
+			"value": "KBR"
+		},
+		{
+			"label": "Kota Kinabalu, Malaysia (BKI)",
+			"value": "BKI"
+		},
+		{
+			"label": "Kotlik, AK (KOT)",
+			"value": "KOT"
+		},
+		{
+			"label": "Kotzebue, AK (OTZ)",
+			"value": "OTZ"
+		},
+		{
+			"label": "Kowanyama, QL, Australia (KWM)",
+			"value": "KWM"
+		},
+		{
+			"label": "Koyukuk, AK (KYU)",
+			"value": "KYU"
+		},
+		{
+			"label": "Kozhikode, India (CCJ)",
+			"value": "CCJ"
+		},
+		{
+			"label": "Krabi, Thailand (KBV)",
+			"value": "KBV"
+		},
+		{
+			"label": "Krakow, Poland (KRK)",
+			"value": "KRK"
+		},
+		{
+			"label": "Krivoy Rog, Ukraine (KWG)",
+			"value": "KWG"
+		},
+		{
+			"label": "Kuala Lumpur, Malaysia (KUL)",
+			"value": "KUL"
+		},
+		{
+			"label": "Kuala Terengganu, Malaysia (TGG)",
+			"value": "TGG"
+		},
+		{
+			"label": "Kuantan, Malaysia (KUA)",
+			"value": "KUA"
+		},
+		{
+			"label": "Kubin Island, QL, Australia (KUG)",
+			"value": "KUG"
+		},
+		{
+			"label": "Kuching, Malaysia (KCH)",
+			"value": "KCH"
+		},
+		{
+			"label": "Kudat, Malaysia (KUD)",
+			"value": "KUD"
+		},
+		{
+			"label": "Kufrah, Libya (AKF)",
+			"value": "AKF"
+		},
+		{
+			"label": "Kugaaruk, NU (YBB)",
+			"value": "YBB"
+		},
+		{
+			"label": "Kugluktuk/Coppermine, NU (YCO)",
+			"value": "YCO"
+		},
+		{
+			"label": "Kulusuk, Greenland (KUS)",
+			"value": "KUS"
+		},
+		{
+			"label": "Kumejima, Japan (UEO)",
+			"value": "UEO"
+		},
+		{
+			"label": "Kundiawa, Papau New Guinea (CMU)",
+			"value": "CMU"
+		},
+		{
+			"label": "Kuopio, Finland (KUO)",
+			"value": "KUO"
+		},
+		{
+			"label": "Kuri, Papua New Guinea (KUQ)",
+			"value": "KUQ"
+		},
+		{
+			"label": "Kushiro, Japan (KUH)",
+			"value": "KUH"
+		},
+		{
+			"label": "Kutaisi, Georgia (KUT)",
+			"value": "KUT"
+		},
+		{
+			"label": "Kuujjuaq, QC (YVP)",
+			"value": "YVP"
+		},
+		{
+			"label": "Kuujjuarapik, QC (YGW)",
+			"value": "YGW"
+		},
+		{
+			"label": "Kuusamo, Finland (KAO)",
+			"value": "KAO"
+		},
+		{
+			"label": "Kuwait, Kuwait (KWI)",
+			"value": "KWI"
+		},
+		{
+			"label": "Kwajalein, Marshall Islands (KWA)",
+			"value": "KWA"
+		},
+		{
+			"label": "Kwethluk, AK (KWT)",
+			"value": "KWT"
+		},
+		{
+			"label": "Kwigillingok, AK (KWK)",
+			"value": "KWK"
+		},
+		{
+			"label": "Kyzyl, Russia (KYZ)",
+			"value": "KYZ"
+		},
+		{
+			"label": "La Ceiba, Honduras (LCE)",
+			"value": "LCE"
+		},
+		{
+			"label": "La Coruna, Spain (LCG)",
+			"value": "LCG"
+		},
+		{
+			"label": "La Crosse, WI (LSE)",
+			"value": "LSE"
+		},
+		{
+			"label": "La Grande, QC (YGL)",
+			"value": "YGL"
+		},
+		{
+			"label": "La Palma, Panama (PLP)",
+			"value": "PLP"
+		},
+		{
+			"label": "La Paz, Bolivia (LPB)",
+			"value": "LPB"
+		},
+		{
+			"label": "La Paz, Mexico (LAP)",
+			"value": "LAP"
+		},
+		{
+			"label": "La Rioja, Argentina (IRJ)",
+			"value": "IRJ"
+		},
+		{
+			"label": "La Romana, Dominican Republic (LRM)",
+			"value": "LRM"
+		},
+		{
+			"label": "La Ronge, SK (YVC)",
+			"value": "YVC"
+		},
+		{
+			"label": "La Serena, Chile (LSC)",
+			"value": "LSC"
+		},
+		{
+			"label": "La Tabatiere, QC (ZLT)",
+			"value": "ZLT"
+		},
+		{
+			"label": "La Tuque, QC (YLQ)",
+			"value": "YLQ"
+		},
+		{
+			"label": "Laayoune, Morocco (EUN)",
+			"value": "EUN"
+		},
+		{
+			"label": "Labasa, Fiji (LBS)",
+			"value": "LBS"
+		},
+		{
+			"label": "Lablab, Papua New Guinea (LAB)",
+			"value": "LAB"
+		},
+		{
+			"label": "Labuan Bajo, Indonesia (LBJ)",
+			"value": "LBJ"
+		},
+		{
+			"label": "Labuan, Malaysia (LBU)",
+			"value": "LBU"
+		},
+		{
+			"label": "Lac Brochet, MB (XLB)",
+			"value": "XLB"
+		},
+		{
+			"label": "Lac Edouard, QC - Rail service (XEE)",
+			"value": "XEE"
+		},
+		{
+			"label": "Ladysmith, BC - Rail service (XEH)",
+			"value": "XEH"
+		},
+		{
+			"label": "Lae Island, Marshall Islands (LML)",
+			"value": "LML"
+		},
+		{
+			"label": "Lae, Papua New Guinea (LAE)",
+			"value": "LAE"
+		},
+		{
+			"label": "Lafayette, IN (LAF)",
+			"value": "LAF"
+		},
+		{
+			"label": "Lafayette, LA (LFT)",
+			"value": "LFT"
+		},
+		{
+			"label": "Lages, SC, Brazil (LAJ)",
+			"value": "LAJ"
+		},
+		{
+			"label": "Lago Agrio, Ecuador (LGQ)",
+			"value": "LGQ"
+		},
+		{
+			"label": "Lago Argentina, Argentina (ING)",
+			"value": "ING"
+		},
+		{
+			"label": "Lagos, Nigeria (LOS)",
+			"value": "LOS"
+		},
+		{
+			"label": "Lahadbatu, Malaysia (LDU)",
+			"value": "LDU"
+		},
+		{
+			"label": "Lahore, Pakistan (LHE)",
+			"value": "LHE"
+		},
+		{
+			"label": "Lake Charles, LA (LCH)",
+			"value": "LCH"
+		},
+		{
+			"label": "Lake Havasu City, AZ (HII)",
+			"value": "HII"
+		},
+		{
+			"label": "Lake Minchumina, AK (LMA)",
+			"value": "LMA"
+		},
+		{
+			"label": "Lakeba, Fiji (LKB)",
+			"value": "LKB"
+		},
+		{
+			"label": "Lakselv, Norway (LKL)",
+			"value": "LKL"
+		},
+		{
+			"label": "Lalibela, Ethiopia (LLI)",
+			"value": "LLI"
+		},
+		{
+			"label": "Lamap, Vanuatu (LPM)",
+			"value": "LPM"
+		},
+		{
+			"label": "Lamen Bay, Vanuatu (LNB)",
+			"value": "LNB"
+		},
+		{
+			"label": "Mobile, AL (MOB)",
+			"value": "MOB"
+		},
+		{
+			"label": "Modesto, CA (MOD)",
+			"value": "MOD"
+		},
+		{
+			"label": "Mogadishu, Somalia (MGQ)",
+			"value": "MGQ"
+		},
+		{
+			"label": "Mohenjodaro, Denmark (MJD)",
+			"value": "MJD"
+		},
+		{
+			"label": "Mokpo, South Korea (MPK)",
+			"value": "MPK"
+		},
+		{
+			"label": "Mokuti Lodge, Namibia (OKU)",
+			"value": "OKU"
+		},
+		{
+			"label": "Molde, Norway (MOL)",
+			"value": "MOL"
+		},
+		{
+			"label": "Moline, IL (MLI)",
+			"value": "MLI"
+		},
+		{
+			"label": "Mombasa, Kenya (MBA)",
+			"value": "MBA"
+		},
+		{
+			"label": "Monastir, Tunisia (MIR)",
+			"value": "MIR"
+		},
+		{
+			"label": "Monbetsu, Japan (MBE)",
+			"value": "MBE"
+		},
+		{
+			"label": "Monclova, Mexico (LOV)",
+			"value": "LOV"
+		},
+		{
+			"label": "Moncton, NB - Airport (YQM)",
+			"value": "YQM"
+		},
+		{
+			"label": "Moncton, NB - Rail service (XDP)",
+			"value": "XDP"
+		},
+		{
+			"label": "Monkey Mia, WA, Australia (MJK)",
+			"value": "MJK"
+		},
+		{
+			"label": "Mono, Solomon Islands (MNY)",
+			"value": "MNY"
+		},
+		{
+			"label": "Povungnituk, QC (YPX)",
+			"value": "YPX"
+		},
+		{
+			"label": "Powell River, BC (YPW)",
+			"value": "YPW"
+		},
+		{
+			"label": "Poza Rico, Mexico (PAZ)",
+			"value": "PAZ"
+		},
+		{
+			"label": "Poznan, Poland (POZ)",
+			"value": "POZ"
+		},
+		{
+			"label": "Prague, Czech Republic (PRG)",
+			"value": "PRG"
+		},
+		{
+			"label": "Praia, Cape Verde (RAI)",
+			"value": "RAI"
+		},
+		{
+			"label": "Pres. Roque Saenz Pena, CH, Argentina (PRQ)",
+			"value": "PRQ"
+		},
+		{
+			"label": "Prescott, AZ (PRC)",
+			"value": "PRC"
+		},
+		{
+			"label": "Prescott, ON - Rail service (XII)",
+			"value": "XII"
+		},
+		{
+			"label": "Presidente Prudente, SP, Brazil (PPB)",
+			"value": "PPB"
+		},
+		{
+			"label": "Presque Isle, ME (PQI)",
+			"value": "PQI"
+		},
+		{
+			"label": "Preveza/Lefkas, Greece (PVK)",
+			"value": "PVK"
+		},
+		{
+			"label": "Prince Albert, SK (YPA)",
+			"value": "YPA"
+		},
+		{
+			"label": "Prince George, BC (YXS)",
+			"value": "YXS"
+		},
+		{
+			"label": "Prince George, BC - Rail service (XDV)",
+			"value": "XDV"
+		},
+		{
+			"label": "Prince Rupert, BC - Digby Island Airport (YPR)",
+			"value": "YPR"
+		},
+		{
+			"label": "Prince Rupert, BC - Rail service (XDW)",
+			"value": "XDW"
+		},
+		{
+			"label": "Princeton, WV (BLF)",
+			"value": "BLF"
+		},
+		{
+			"label": "Pristina, Serbia and Montenegro (PRN)",
+			"value": "PRN"
+		},
+		{
+			"label": "Proserpine, QL, Australia (PPP)",
+			"value": "PPP"
+		},
+		{
+			"label": "Providence, RI (PVD)",
+			"value": "PVD"
+		},
+		{
+			"label": "Providenciales, Turks and Caicos Islands (PLS)",
+			"value": "PLS"
+		},
+		{
+			"label": "Provincetown, MA (PVC)",
+			"value": "PVC"
+		},
+		{
+			"label": "Prudhoe Bay/Deadhorse, AK (SCC)",
+			"value": "SCC"
+		},
+		{
+			"label": "Pucallpa, Peru (PCL)",
+			"value": "PCL"
+		},
+		{
+			"label": "Puebla, Mexico (PBC)",
+			"value": "PBC"
+		},
+		{
+			"label": "Pueblo, CO (PUB)",
+			"value": "PUB"
+		},
+		{
+			"label": "Puerto Ayacucha, Venezuela (PYH)",
+			"value": "PYH"
+		},
+		{
+			"label": "Puerto Berria, Colombia (PBE)",
+			"value": "PBE"
+		},
+		{
+			"label": "Puerto del Rosario, Spain (FUE)",
+			"value": "FUE"
+		},
+		{
+			"label": "Puerto Deseado, SC, Argentina (PUD)",
+			"value": "PUD"
+		},
+		{
+			"label": "Puerto Escondido, Mexico (PXM)",
+			"value": "PXM"
+		},
+		{
+			"label": "Puerto Jimenez, Costa Rica (PJM)",
+			"value": "PJM"
+		},
+		{
+			"label": "Puerto Lempira, Honduras (PEU)",
+			"value": "PEU"
+		},
+		{
+			"label": "Puerto Madryn, CB, Argentina (PMY)",
+			"value": "PMY"
+		},
+		{
+			"label": "Puerto Maldonado, Peru (PEM)",
+			"value": "PEM"
+		},
+		{
+			"label": "Puerto Montt, Chile (PMC)",
+			"value": "PMC"
+		},
+		{
+			"label": "Puerto Ordaz, Venezuela (PZO)",
+			"value": "PZO"
+		},
+		{
+			"label": "Puerto Plata, Dominican Republic (POP)",
+			"value": "POP"
+		},
+		{
+			"label": "Puerto Princesa, Philippines (PPS)",
+			"value": "PPS"
+		},
+		{
+			"label": "Puerto Suarez, Bolivia (PSZ)",
+			"value": "PSZ"
+		},
+		{
+			"label": "Puerto Vallarta, Mexico (PVR)",
+			"value": "PVR"
+		},
+		{
+			"label": "Pukatawagan, MB - (XPK)",
+			"value": "XPK"
+		},
+		{
+			"label": "Pula, Croatia (PUY)",
+			"value": "PUY"
+		},
+		{
+			"label": "Pullman, WA (PUW)",
+			"value": "PUW"
+		},
+		{
+			"label": "Pune, India (PNQ)",
+			"value": "PNQ"
+		},
+		{
+			"label": "Punta Arenas, Chile (PUQ)",
+			"value": "PUQ"
+		},
+		{
+			"label": "Punta Cana, Dominican Republic (PUJ)",
+			"value": "PUJ"
+		},
+		{
+			"label": "Punta Del Este, Uruguay (PDP)",
+			"value": "PDP"
+		},
+		{
+			"label": "Punta Gorda, Belize (PND)",
+			"value": "PND"
+		},
+		{
+			"label": "Punta Islita, Costa Rica (PBP)",
+			"value": "PBP"
+		},
+		{
+			"label": "Puttaparthi, India (PUT)",
+			"value": "PUT"
+		},
+		{
+			"label": "Putussibau, Indonesia (PSU)",
+			"value": "PSU"
+		},
+		{
+			"label": "Pyongyang, North Korea (FNJ)",
+			"value": "FNJ"
+		},
+		{
+			"label": "Qaisumah, Saudi Arabia (AQI)",
+			"value": "AQI"
+		},
+		{
+			"label": "Qaqortoq, Greenland (JJU)",
+			"value": "JJU"
+		},
+		{
+			"label": "Qiemo, China (IQM)",
+			"value": "IQM"
+		},
+		{
+			"label": "Qikiqtarjuaq, NU (YVM)",
+			"value": "YVM"
+		},
+		{
+			"label": "Qingdao, China (TAO)",
+			"value": "TAO"
+		},
+		{
+			"label": "Qiqihar, China (NDG)",
+			"value": "NDG"
+		},
+		{
+			"label": "Qualicum, BC (XQU)",
+			"value": "XQU"
+		},
+		{
+			"label": "Sylhet, Bangladesh (ZYL)",
+			"value": "ZYL"
+		},
+		{
+			"label": "Syracuse, NY (SYR)",
+			"value": "SYR"
+		},
+		{
+			"label": "Szczecin, Poland (SZZ)",
+			"value": "SZZ"
+		},
+		{
+			"label": "Taba, Egypt (TCP)",
+			"value": "TCP"
+		},
+		{
+			"label": "Vardoe, Norway (VAW)",
+			"value": "VAW"
+		},
+		{
+			"label": "Varginha, MG, Brazil (VAG)",
+			"value": "VAG"
+		},
+		{
+			"label": "Varkaus, Finland (VRK)",
+			"value": "VRK"
+		},
+		{
+			"label": "Varna, Bulgaria (VAR)",
+			"value": "VAR"
+		},
+		{
+			"label": "Vasteras, Sweden (VST)",
+			"value": "VST"
+		},
+		{
+			"label": "Vatomatry, Madagascar (VAT)",
+			"value": "VAT"
+		},
+		{
+			"label": "Vava'u, Tonga (VAV)",
+			"value": "VAV"
+		},
+		{
+			"label": "Vaxjo, Sweden (VXO)",
+			"value": "VXO"
+		},
+		{
+			"label": "Venetie, AK (VEE)",
+			"value": "VEE"
+		},
+		{
+			"label": "Venice, Italy - Marco Polo (VCE)",
+			"value": "VCE"
+		},
+		{
+			"label": "Venice, Italy - Treviso (TSF)",
+			"value": "TSF"
+		},
+		{
+			"label": "Ventura/Oxnard, CA (OXR)",
+			"value": "OXR"
+		},
+		{
+			"label": "Veracruz, Mexico (VER)",
+			"value": "VER"
+		},
+		{
+			"label": "Vernal, UT (VEL)",
+			"value": "VEL"
+		},
+		{
+			"label": "Verona, Italy (VRN)",
+			"value": "VRN"
+		},
+		{
+			"label": "Vestmannaeyjar, Iceland (VEY)",
+			"value": "VEY"
+		},
+		{
+			"label": "Victoria Falls, Zimbabwe (VFA)",
+			"value": "VFA"
+		},
+		{
+			"label": "Victoria River Downs, NT, Australia (VCD)",
+			"value": "VCD"
+		},
+		{
+			"label": "Victoria, BC - Inner Harbor (YWH)",
+			"value": "YWH"
+		},
+		{
+			"label": "Victoria, BC - International (YYJ)",
+			"value": "YYJ"
+		},
+		{
+			"label": "Victoria, TX (VCT)",
+			"value": "VCT"
+		},
+		{
+			"label": "Viedma, RN, Argentina (VDM)",
+			"value": "VDM"
+		},
+		{
+			"label": "Vienna, Austria (VIE)",
+			"value": "VIE"
+		},
+		{
+			"label": "Vientiane, Laos - Wattay (VTE)",
+			"value": "VTE"
+		},
+		{
+			"label": "Vieques, Puerto Rico (VQS)",
+			"value": "VQS"
+		},
+		{
+			"label": "Vigo, Spain (VGO)",
+			"value": "VGO"
+		},
+		{
+			"label": "Vilanculos, Mozambique (VNX)",
+			"value": "VNX"
+		},
+		{
+			"label": "Vilhelmina, Sweden (VHM)",
+			"value": "VHM"
+		},
+		{
+			"label": "Vilhena, Brazil (BVH)",
+			"value": "BVH"
+		},
+		{
+			"label": "Villa Gesell, BA, Argentina (VLG)",
+			"value": "VLG"
+		},
+		{
+			"label": "Villa Mercedes, SL, Argentina (VME)",
+			"value": "VME"
+		},
+		{
+			"label": "Villahermosa, Mexico (VSA)",
+			"value": "VSA"
+		},
+		{
+			"label": "Vilnius, Lithuania (VNO)",
+			"value": "VNO"
+		},
+		{
+			"label": "Vinh City, Viet Nam (VII)",
+			"value": "VII"
+		},
+		{
+			"label": "Virgin Gorda, British Virgin Islands (VIJ)",
+			"value": "VIJ"
+		},
+		{
+			"label": "Visalia, CA (VIS)",
+			"value": "VIS"
+		},
+		{
+			"label": "Visby, Sweden (VBY)",
+			"value": "VBY"
+		},
+		{
+			"label": "Vishakhapatnam, India (VTZ)",
+			"value": "VTZ"
+		},
+		{
+			"label": "Vitebsk, Belarus (VTB)",
+			"value": "VTB"
+		},
+		{
+			"label": "Vitoria da Conquista, BA, Brazil (VDC)",
+			"value": "VDC"
+		},
+		{
+			"label": "Vitoria, Spain and Canary Islands (VIT)",
+			"value": "VIT"
+		},
+		{
+			"label": "Vivigani, Papua New Guinea (VIV)",
+			"value": "VIV"
+		},
+		{
+			"label": "Vladikavkaz, Russia (OGZ)",
+			"value": "OGZ"
+		},
+		{
+			"label": "Vladivostok, Russia (VVO)",
+			"value": "VVO"
+		},
+		{
+			"label": "Vohemar, Madagascar (VOH)",
+			"value": "VOH"
+		},
+		{
+			"label": "Volgodonsk, Russia (VLK)",
+			"value": "VLK"
+		},
+		{
+			"label": "Volgograd, Russia (VOG)",
+			"value": "VOG"
+		},
+		{
+			"label": "Vopnafjordur, Iceland (VPN)",
+			"value": "VPN"
+		},
+		{
+			"label": "Vorkuta, Russia (VKT)",
+			"value": "VKT"
+		},
+		{
+			"label": "Voronezh, Russia (VOZ)",
+			"value": "VOZ"
+		},
+		{
+			"label": "Wabush, NL (YWK)",
+			"value": "YWK"
+		},
+		{
+			"label": "Waco, TX (ACT)",
+			"value": "ACT"
+		},
+		{
+			"label": "Wadi Ad Dawasir, Saudi Arabia (WAE)",
+			"value": "WAE"
+		},
+		{
+			"label": "Wadi Halfa, Sudan (WHF)",
+			"value": "WHF"
+		},
+		{
+			"label": "Wagethe, Indonesia (WET)",
+			"value": "WET"
+		},
+		{
+			"label": "Wagga Wagga, NS, Australia (WGA)",
+			"value": "WGA"
+		},
+		{
+			"label": "Wahai, Indonesia (WBA)",
+			"value": "WBA"
+		},
+		{
+			"label": "Waingapo, Indonesia (WGP)",
+			"value": "WGP"
+		},
+		{
+			"label": "Wainwright, AK (AIN)",
+			"value": "AIN"
+		},
+		{
+			"label": "Wakkanai, Japan (WKJ)",
+			"value": "WKJ"
+		},
+		{
+			"label": "Walaha, Vanuatu (WLH)",
+			"value": "WLH"
+		},
+		{
+			"label": "Wales, AK (WAA)",
+			"value": "WAA"
+		},
+		{
+			"label": "Walgett, NS, Australia (WGE)",
+			"value": "WGE"
+		},
+		{
+			"label": "Walla Walla, WA (ALW)",
+			"value": "ALW"
+		},
+		{
+			"label": "Wallis Island, Wallis and Futuna Islands (WLS)",
+			"value": "WLS"
+		},
+		{
+			"label": "Walvis Bay, Namibia (WVB)",
+			"value": "WVB"
+		},
+		{
+			"label": "Wamena, Indonesia (WMX)",
+			"value": "WMX"
+		},
+		{
+			"label": "Wanaka, New Zealand (WKA)",
+			"value": "WKA"
+		},
+		{
+			"label": "Wanganui, New Zealand (WAG)",
+			"value": "WAG"
+		},
+		{
+			"label": "Wangerooge, Germany (AGE)",
+			"value": "AGE"
+		},
+		{
+			"label": "Wanigela, Papua New Guinea (AGL)",
+			"value": "AGL"
+		},
+		{
+			"label": "Wanxian, China (WXN)",
+			"value": "WXN"
+		},
+		{
+			"label": "Warsaw, Poland (WAW)",
+			"value": "WAW"
+		},
+		{
+			"label": "Washington DC - All airports (WAS)",
+			"value": "WAS"
+		},
+		{
+			"label": "Washington DC - Dulles (IAD)",
+			"value": "IAD"
+		},
+		{
+			"label": "Washington DC - National (DCA)",
+			"value": "DCA"
+		},
+		{
+			"label": "Wasior, Indonesia (WSR)",
+			"value": "WSR"
+		},
+		{
+			"label": "Waskaganish, QC (YKQ)",
+			"value": "YKQ"
+		},
+		{
+			"label": "Wasu, Papua New Guinea (WSU)",
+			"value": "WSU"
+		},
+		{
+			"label": "Waterfall, AK (KWF)",
+			"value": "KWF"
+		},
+		{
+			"label": "Waterford, Ireland (WAT)",
+			"value": "WAT"
+		},
+		{
+			"label": "Waterloo, IA (ALO)",
+			"value": "ALO"
+		},
+		{
+			"label": "Watertown, NY (ART)",
+			"value": "ART"
+		},
+		{
+			"label": "Watertown, SD (ATY)",
+			"value": "ATY"
+		},
+		{
+			"label": "Watford, ON - Rail service (XWA)",
+			"value": "XWA"
+		},
+		{
+			"label": "Wau, Papua New Guinea (WUG)",
+			"value": "WUG"
+		},
+		{
+			"label": "Wau, Sudan (WUU)",
+			"value": "WUU"
+		},
+		{
+			"label": "Wausau/Stevens Point, WI (CWA)",
+			"value": "CWA"
+		},
+		{
+			"label": "Webequie, ON (YWP)",
+			"value": "YWP"
+		},
+		{
+			"label": "Wedau, Papua New Guinea (WED)",
+			"value": "WED"
+		},
+		{
+			"label": "Wedjh, Saudi Arabia (EJH)",
+			"value": "EJH"
+		},
+		{
+			"label": "Weihai, China (WEH)",
+			"value": "WEH"
+		},
+		{
+			"label": "Weipa, QL, Australia (WEI)",
+			"value": "WEI"
+		},
+		{
+			"label": "Wellington, New Zealand (WLG)",
+			"value": "WLG"
+		},
+		{
+			"label": "Wemindji, QC (YNC)",
+			"value": "YNC"
+		},
+		{
+			"label": "Wenatchee, WA (EAT)",
+			"value": "EAT"
+		},
+		{
+			"label": "Wenzhou, China (WNZ)",
+			"value": "WNZ"
+		},
+		{
+			"label": "West Palm Beach, FL (PBI)",
+			"value": "PBI"
+		},
+		{
+			"label": "West Yellowstone, MT (WYS)",
+			"value": "WYS"
+		},
+		{
+			"label": "Westchester County, NY (HPN)",
+			"value": "HPN"
+		},
+		{
+			"label": "Westerland, Germany (GWT)",
+			"value": "GWT"
+		},
+		{
+			"label": "Westerly, RI (WST)",
+			"value": "WST"
+		},
+		{
+			"label": "Westport, New Zealand (WSZ)",
+			"value": "WSZ"
+		},
+		{
+			"label": "Westray, United Kingdom (WRY)",
+			"value": "WRY"
+		},
+		{
+			"label": "Westsound, WA (WSX)",
+			"value": "WSX"
+		},
+		{
+			"label": "Wewak, Papua New Guinea (WWK)",
+			"value": "WWK"
+		},
+		{
+			"label": "Weymont, QC - Rail service (XFQ)",
+			"value": "XFQ"
+		},
+		{
+			"label": "Wha Ti/Lac La Martre, NT (YLE)",
+			"value": "YLE"
+		},
+		{
+			"label": "Whakatane, New Zealand (WHK)",
+			"value": "WHK"
+		},
+		{
+			"label": "Whale Cove, NU (YXN)",
+			"value": "YXN"
+		},
+		{
+			"label": "Whale Pass, AK (WWP)",
+			"value": "WWP"
+		},
+		{
+			"label": "Whangarei, New Zealand (WRE)",
+			"value": "WRE"
+		},
+		{
+			"label": "White Mountain, AK (WMO)",
+			"value": "WMO"
+		},
+		{
+			"label": "White River, ON (YWR)",
+			"value": "YWR"
+		},
+		{
+			"label": "White River, VT (LEB)",
+			"value": "LEB"
+		},
+		{
+			"label": "Whitehorse, YT (YXY)",
+			"value": "YXY"
+		},
+		{
+			"label": "Whyalla, SA, Australia (WYA)",
+			"value": "WYA"
+		},
+		{
+			"label": "Wichita Falls, TX (SPS)",
+			"value": "SPS"
+		},
+		{
+			"label": "Wichita, KS (ICT)",
+			"value": "ICT"
+		},
+		{
+			"label": "Wick, United Kingdom (WIC)",
+			"value": "WIC"
+		},
+		{
+			"label": "Wilhelmshaven, Germany (WVN)",
+			"value": "WVN"
+		},
+		{
+			"label": "Wilkes Barre, PA (AVP)",
+			"value": "AVP"
+		},
+		{
+			"label": "Williams Harbour, NL (YWM)",
+			"value": "YWM"
+		},
+		{
+			"label": "Williams Lake, BC (YWL)",
+			"value": "YWL"
+		},
+		{
+			"label": "Williamsburg, VA (PHF)",
+			"value": "PHF"
+		},
+		{
+			"label": "Williamsport, PA (IPT)",
+			"value": "IPT"
+		},
+		{
+			"label": "Williston, ND (ISN)",
+			"value": "ISN"
+		},
+		{
+			"label": "Wilmington, NC (ILM)",
+			"value": "ILM"
+		},
+		{
+			"label": "Wiluna, WA, Australia (WUN)",
+			"value": "WUN"
+		},
+		{
+			"label": "Windarra, QL, Australia (WNR)",
+			"value": "WNR"
+		},
+		{
+			"label": "Windsor Locks, CT (BDL)",
+			"value": "BDL"
+		},
+		{
+			"label": "Windsor, ON (YQG)",
+			"value": "YQG"
+		},
+		{
+			"label": "Windsor, ON - Rail service (XEC)",
+			"value": "XEC"
+		},
+		{
+			"label": "Winnipeg, MB - International (YWG)",
+			"value": "YWG"
+		},
+		{
+			"label": "Winnipeg, MB - Rail service (XEF)",
+			"value": "XEF"
+		},
+		{
+			"label": "Winton, QL, Australia (WIN)",
+			"value": "WIN"
+		},
+		{
+			"label": "Woja, Marshall Islands (WJA)",
+			"value": "WJA"
+		},
+		{
+			"label": "Wollaston Lake, SK (ZWL)",
+			"value": "ZWL"
+		},
+		{
+			"label": "Wonan, Taiwan (WOT)",
+			"value": "WOT"
+		},
+		{
+			"label": "WonJu, South Korea (WJU)",
+			"value": "WJU"
+		},
+		{
+			"label": "Woodstock, ON - Rail service (XIP)",
+			"value": "XIP"
+		},
+		{
+			"label": "Worcester, MA (ORH)",
+			"value": "ORH"
+		},
+		{
+			"label": "Worland, WY (WRL)",
+			"value": "WRL"
+		},
+		{
+			"label": "Wotho Island, Marshall Islands (WTO)",
+			"value": "WTO"
+		},
+		{
+			"label": "Wotje Island, Marshall Islands (WTE)",
+			"value": "WTE"
+		},
+		{
+			"label": "Wrangell, AK (WRG)",
+			"value": "WRG"
+		},
+		{
+			"label": "Wroclaw, Poland (WRO)",
+			"value": "WRO"
+		},
+		{
+			"label": "Wudinna, SA, Australia (WUD)",
+			"value": "WUD"
+		},
+		{
+			"label": "Wuhan, China (WUH)",
+			"value": "WUH"
+		},
+		{
+			"label": "Wunnummin Lake, ON (WNN)",
+			"value": "WNN"
+		},
+		{
+			"label": "Wuyishan, China (WUS)",
+			"value": "WUS"
+		},
+		{
+			"label": "Wyndham, WA, Australia (WYN)",
+			"value": "WYN"
+		},
+		{
+			"label": "Wyoming, ON - Rail service (XWY)",
+			"value": "XWY"
+		},
+		{
+			"label": "Xi An, China - Xianyang (XIY)",
+			"value": "XIY"
+		},
+		{
+			"label": "Xiamen, China (XMN)",
+			"value": "XMN"
+		},
+		{
+			"label": "Xiangfan, China (XFN)",
+			"value": "XFN"
+		},
+		{
+			"label": "Xichang, China (XIC)",
+			"value": "XIC"
+		},
+		{
+			"label": "Xieng Khouang, Laos (XKH)",
+			"value": "XKH"
+		},
+		{
+			"label": "Xilinhot, China (XIL)",
+			"value": "XIL"
+		},
+		{
+			"label": "Xining, China (XNN)",
+			"value": "XNN"
+		},
+		{
+			"label": "Xuzhou, China (XUZ)",
+			"value": "XUZ"
+		},
+		{
+			"label": "Yakima, WA (YKM)",
+			"value": "YKM"
+		},
+		{
+			"label": "Yakutat, AK (YAK)",
+			"value": "YAK"
+		},
+		{
+			"label": "Yakutsk, Russia (YKS)",
+			"value": "YKS"
+		},
+		{
+			"label": "Yalumet, Papua New Guinea (KYX)",
+			"value": "KYX"
+		},
+		{
+			"label": "Yam Island, QL, Australia (XMY)",
+			"value": "XMY"
+		},
+		{
+			"label": "Yamagata, Japan (GAJ)",
+			"value": "GAJ"
+		},
+		{
+			"label": "Yan'an, China (ENY)",
+			"value": "ENY"
+		},
+		{
+			"label": "Yanbu, Saudi Arabia (YNB)",
+			"value": "YNB"
+		},
+		{
+			"label": "Yancheng, China (YNZ)",
+			"value": "YNZ"
+		},
+		{
+			"label": "Yandina, Solomon Islands (XYA)",
+			"value": "XYA"
+		},
+		{
+			"label": "Yangon, Myanmar (RGN)",
+			"value": "RGN"
+		},
+		{
+			"label": "Yanji, China (YNJ)",
+			"value": "YNJ"
+		},
+		{
+			"label": "Yantai, China (YNT)",
+			"value": "YNT"
+		},
+		{
+			"label": "Yaounde, Cameroon (YAO)",
+			"value": "YAO"
+		},
+		{
+			"label": "Yap, Micronesia (YAP)",
+			"value": "YAP"
+		},
+		{
+			"label": "Yarmouth, NS (YQI)",
+			"value": "YQI"
+		},
+		{
+			"label": "Yaroslavl, Russia (IAR)",
+			"value": "IAR"
+		},
+		{
+			"label": "Yazd, Iran (AZD)",
+			"value": "AZD"
+		},
+		{
+			"label": "Yelimane, Mali (EYL)",
+			"value": "EYL"
+		},
+		{
+			"label": "Yellowknife, NT (YZF)",
+			"value": "YZF"
+		},
+		{
+			"label": "Yellowstone/Cody, WY (COD)",
+			"value": "COD"
+		},
+		{
+			"label": "Yeosu, South Korea (RSU)",
+			"value": "RSU"
+		},
+		{
+			"label": "Yerevan, Armenia (EVN)",
+			"value": "EVN"
+		},
+		{
+			"label": "Yibin, China (YBP)",
+			"value": "YBP"
+		},
+		{
+			"label": "Yichang, China (YIH)",
+			"value": "YIH"
+		},
+		{
+			"label": "Yinchuan, China (INC)",
+			"value": "INC"
+		},
+		{
+			"label": "Yining, China (YIN)",
+			"value": "YIN"
+		},
+		{
+			"label": "Yiwu, China (YIW)",
+			"value": "YIW"
+		},
+		{
+			"label": "Yogyakarta, Indonesia (JOG)",
+			"value": "JOG"
+		},
+		{
+			"label": "Yonago, Japan (YGJ)",
+			"value": "YGJ"
+		},
+		{
+			"label": "Yonaguni Jima, Japan (OGN)",
+			"value": "OGN"
+		},
+		{
+			"label": "York Landing, MB (ZAC)",
+			"value": "ZAC"
+		},
+		{
+			"label": "Yorke Island, QL, Australia (OKR)",
+			"value": "OKR"
+		},
+		{
+			"label": "Yoronjima, Japan (RNJ)",
+			"value": "RNJ"
+		},
+		{
+			"label": "Youngstown, OH (YNG)",
+			"value": "YNG"
+		},
+		{
+			"label": "Yulin, China (UYN)",
+			"value": "UYN"
+		},
+		{
+			"label": "Yuma, AZ (YUM)",
+			"value": "YUM"
+		},
+		{
+			"label": "Yuzhno-Sakhalinsk, Russia (UUS)",
+			"value": "UUS"
+		},
+		{
+			"label": "Zadar, Croatia (ZAD)",
+			"value": "ZAD"
+		},
+		{
+			"label": "Zagreb, Croatia (ZAG)",
+			"value": "ZAG"
+		},
+		{
+			"label": "Zahedan, Iran (ZAH)",
+			"value": "ZAH"
+		},
+		{
+			"label": "Zakinthos Island, Greece (ZTH)",
+			"value": "ZTH"
+		},
+		{
+			"label": "Zamboanga, Philippines (ZAM)",
+			"value": "ZAM"
+		},
+		{
+			"label": "Zanzibar, Tanzania - Kisauni (ZNZ)",
+			"value": "ZNZ"
+		},
+		{
+			"label": "Zaporozhye, Ukraine (OZH)",
+			"value": "OZH"
+		},
+		{
+			"label": "Zaragoza, Spain and Canary Islands (ZAZ)",
+			"value": "ZAZ"
+		},
+		{
+			"label": "Zhanjiang, China (ZHA)",
+			"value": "ZHA"
+		},
+		{
+			"label": "Zhaotong, China (ZAT)",
+			"value": "ZAT"
+		},
+		{
+			"label": "Zhengzha, China (CGO)",
+			"value": "CGO"
+		},
+		{
+			"label": "Zhob, Pakistan (PZH)",
+			"value": "PZH"
+		},
+		{
+			"label": "Zhoushan, China (HSN)",
+			"value": "HSN"
+		},
+		{
+			"label": "Zhuhai, China (ZUH)",
+			"value": "ZUH"
+		},
+		{
+			"label": "Zielana, Poland (IEG)",
+			"value": "IEG"
+		},
+		{
+			"label": "Zihuatanejo/Ixtapa, Mexico (ZIH)",
+			"value": "ZIH"
+		},
+		{
+			"label": "Zouerate, Mauritania (OUZ)",
+			"value": "OUZ"
+		},
+		{
+			"label": "Zugapa, Indonesia (UGU)",
+			"value": "UGU"
+		},
+		{
+			"label": "Zurich, Switzerland (ZRH)",
+			"value": "ZRH"
+		}
+	]
+}
