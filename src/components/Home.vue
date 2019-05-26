@@ -56,7 +56,7 @@ const axiosSkyScanner = axios.create({
   headers: {
     common: {
       'X-RapidAPI-Host': 'skyscanner-skyscanner-flight-search-v1.p.rapidapi.com',
-      'X-RapidAPI-Key': 'ac6c8530e6msh8e2102514f8e118p161087jsn63c953f173ef'
+      'X-RapidAPI-Key': '4236a13a41msh2d3b579380a3a0cp1e5d1fjsn39645275c1eb'
     }
   }
 })
