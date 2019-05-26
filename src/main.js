@@ -15,13 +15,13 @@ let app = ''
 
 // initialize Firebase
 firebase.initializeApp({
-  apiKey: 'AIzaSyAsHyQC9F8HsX1k-7AAE9aD19ppBAO93FE',
-  authDomain: 'holiday-planner-pwa.firebaseapp.com',
-  databaseURL: 'https://holiday-planner-pwa.firebaseio.com',
-  projectId: 'holiday-planner-pwa',
-  storageBucket: 'holiday-planner-pwa.appspot.com',
-  messagingSenderId: '364393874700',
-  appId: '1:364393874700:web:7f84ee54a4909a2c'
+  apiKey: "AIzaSyC5erlhCo7Q8U_DbNMRkmS-bDv3giYLZ28",
+  authDomain: "holiday-planner-v2-fdd2e.firebaseapp.com",
+  databaseURL: "https://holiday-planner-v2-fdd2e.firebaseio.com",
+  projectId: "holiday-planner-v2-fdd2e",
+  storageBucket: "holiday-planner-v2-fdd2e.appspot.com",
+  messagingSenderId: "60781953191",
+  appId: "1:60781953191:web:38d0aca3f18b7610"
 })
 
 // initialize the Vue app after we made sure Firebase is ready
