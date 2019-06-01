@@ -30,6 +30,22 @@
             </b-form-group>
           </b-col>
         </b-row>
+        <b-row>
+          <b-col md="3" class="middle">
+            <b-form-group
+              id="flight-search-input-group-currency"
+              label="Currency:"
+              label-for="currency-input"
+            >
+              <b-form-select
+                id="currency-input"
+                v-model="form.currency"
+                class="js-choice"
+                @change="getExchangeRates()"
+              ></b-form-select>
+            </b-form-group>
+          </b-col>
+        </b-row>
         <b-alert v-model="showDismissibleAlert" variant="danger" dismissible>{{ errorMessage }}</b-alert>
         <b-button type="submit" variant="outline-primary">Search!</b-button>
       </b-form>
@@ -38,7 +54,39 @@
     </b-container>
 
     <b-table striped bordered hover :fields="tableFields" :items="flights" v-if="showTable"></b-table>
+  <b-container id="exchange-map-section" class="mt-4">
+      <b-row>
+        <b-col>
+          <b-button
+            @click="getExchangeRates"
+            v-b-toggle.exchangeRatesCollapse
+            variant="outline-warning"
+            class="shadow-sm"
+          >Show Exchange Rates!</b-button>
+          <b-collapse id="exchangeRatesCollapse">
+            <b-table
+              outlined
+              responsive
+              caption-top
+              hover
+              fixed
+              small
+              head-variant="dark"
+              :items="exchangeRates"
+              class="mt-3"
+            >
+              <template slot="table-caption">
+                <em>Exchange rates for {{ form.currency }}</em>
+              </template>
+            </b-table>
+          </b-collapse>
+        </b-col>
+
+        
+      </b-row>
+    </b-container>
   </b-container>
+  
 </template>
 
 <script>
@@ -60,6 +108,9 @@ const axiosSkyScanner = axios.create({
     }
   }
 })
+
+// initialize an axios object for accessing Exchange rates API
+const axiosExchangeRates = axios.create({ baseURL: 'https://api.exchangeratesapi.io' })
 
 const dayInMiliseconds = 86400000
 
@@ -143,6 +194,17 @@ export default {
           this.errorMessage = e.message
           this.loading = false
           this.showDismissibleAlert = true
+        })
+    },
+    getExchangeRates (event) {
+      axiosExchangeRates.get(`/latest?base=${this.form.currency}`)
+        .then(response => {
+          this.exchangeRates = _.reduce(response.data.rates, (rates, value, key) => {
+            if (key !== this.form.currency) {
+              rates.push({ 'currency': key, 'value': value.toFixed(4) })
+            }
+            return rates
+          }, [])
         })
     }
   }
