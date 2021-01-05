@@ -9,7 +9,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "firebase": "^6.0.2",
     "flatpickr": "^4.5.7",
     "querystring": "^0.2.0",
